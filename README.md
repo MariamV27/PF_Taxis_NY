@@ -1,8 +1,10 @@
 # PF_Taxis_NY
 ## ****NYC Taxis & Carbon Emission**** 
-***primer sprint***
 
-![enter image description here](https://blog.soyhenry.com/content/images/2022/12/Data_logo.png)
+
+![enter image description here](./imagen/Blue%20Purple%20Futuristic%20Modern%203D%20Tech%20Company%20Business%20Presentation%20(1).jpg)
+
+***primer sprint***
 
 ***primer sprint***
 Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundamentadas sobre la implementación de vehículos eléctricos en su flota. Para ello, se analizan los datos de movimientos de taxis en Nueva York y su relación con la calidad del aire y la contaminación sonora, entre otros factores ambientales. A continuación, se detalla un plan de trabajo para desarrollar este proyecto:
