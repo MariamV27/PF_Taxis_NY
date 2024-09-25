@@ -1,16 +1,17 @@
 
 ## ****NYC Taxis & Carbon Emission**** 
 
-![enter image description here](./image/WhatsApp%20Image%202024-09-20%20at%2015.49.12.jpeg)
+![enter image description here](./image/Screenshot%202024-09-24%20at%2022.13.51.png)
 
 **Getting Started**
 Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundamentadas sobre la implementación de vehículos eléctricos en su flota. Para ello, se analizan los datos de movimientos de taxis en Nueva York y su relación con la calidad del aire y la contaminación sonora, entre otros factores ambientales. A continuación, se detalla un plan de trabajo para desarrollar este proyecto:
 
 **KPI's** Evaluar la viabilidad de incorporar vehículos eléctricos en la flota de transporte de pasajeros de la empresa, con el fin de reducir las emisiones contaminantes y la contaminación sonora, basándose en el análisis de datos de taxis de Nueva York, así como en información relacionada con la calidad del aire y los niveles de ruido urbano.
 
-![enter image description here](./image/Screenshot%202024-09-25%20at%2014.26.16.png)
+![enter image description here](./image/Screenshot%202024-09-24%20at%2022.13.51.png)
 
 ## Architecture
+
 ### Arquitectura AWS - Pipeline de Datos
 La arquitectura ilustra un flujo de datos en la nube de AWS desde el almacenamiento local hasta la visualización, utilizando varios servicios de AWS.
 
