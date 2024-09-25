@@ -8,14 +8,12 @@ Queremos ayudar a empresas de transporte de pasajeros a tomar decisiones fundame
 
 **KPI's** Evaluar la viabilidad de incorporar vehículos eléctricos en la flota de transporte de pasajeros de la empresa, con el fin de reducir las emisiones contaminantes y la contaminación sonora, basándose en el análisis de datos de taxis de Nueva York, así como en información relacionada con la calidad del aire y los niveles de ruido urbano.
 
-![enter image description here](./image/Screenshot%202024-09-24%20at%2022.13.51.png)
-
 ## Architecture
 
 ### Arquitectura AWS - Pipeline de Datos
 La arquitectura ilustra un flujo de datos en la nube de AWS desde el almacenamiento local hasta la visualización, utilizando varios servicios de AWS.
 
-## Flow Description:
+## Flow Description
 
 ### 1. Almacenamiento Local
 El sistema parte desde un **almacenamiento local** (Filestore), que contiene un archivo de datos en formato **Parquet** llamado `Trip_taxis.parquet`.
